@@ -2,7 +2,6 @@
 # Personal-Homepage-Rock  
 
 ![Picture display](https://github.com/add-qwq/Personal-Homepage-Rock/raw/main/Personal-Homepage-Rock.png?raw=true)  
-![Picture display](https://github.com/add-qwq/Personal-Homepage-Rock/raw/main/Personal-Homepage-Rock2.png?raw=true)  
 
 ## Description (English)  
 [Online Demo (Click to Visit)](https://www.rockaz.top/rockaz/)  
