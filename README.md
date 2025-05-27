@@ -21,7 +21,6 @@ This project, named **Personal-Homepage-Rock**, is a personalized homepage built
 - **Interactive Tag Cloud**: Hover-scaling tags (e.g., "Minecraft," "ScriptHookVDotNet") highlight personal interests with color transitions.  
 - **Reverse-Chronological Timeline**: Recent activities are displayed in descending order, with each entry featuring a slide-in animation on scroll.  
 - **Modal "About" Popup**: Click "About" in the navigation to trigger a personalized introduction modal, closable via the close button or clicking outside.  
-- **Real-Time Birthday Countdown**: Displays live remaining time (days, hours, minutes, seconds) to Rock’s birthday (default: May 6th), updating every second with hover animations.  
 - **Background Switching**: Click "Switch Background" to cycle through preset background images (1.jpg to 5.jpg).  
 - **Background Preview Mode**: Click "View Background" to hide the main content card and fix the footer at the bottom for better background viewing.  
 - **Responsive Design**: Layout adapts automatically for mobile (≤600px), tablet (≤900px), and desktop devices, ensuring optimal display across screens.  
@@ -86,7 +85,6 @@ Works well on modern browsers (Chrome ≥80, Firefox ≥75, Edge ≥80, Safari �
 - **可交互标签云**：标签（如“Minecraft”“ScriptHookVDotNet”）支持悬停缩放与变色，直观呈现兴趣爱好。  
 - **倒序时间线**：近期动态按时间倒序排列，每条动态随滚动触发滑入动画。  
 - **模态“关于”弹窗**：点击导航栏“关于”触发个性化介绍弹窗，支持点击关闭按钮或外部区域关闭。  
-- **实时生日倒计时**：实时显示距离 Rock 生日（默认5月6日）的剩余时间（天、小时、分钟、秒），每秒自动更新，悬停时带动画效果。  
 - **背景切换功能**：点击“切换背景”按钮可循环切换预设背景图（1.jpg 至 5.jpg）。  
 - **背景预览模式**：点击“查看背景”可隐藏主内容卡片并固定页脚到底部，专注查看背景图。  
 - **响应式布局**：自动适配手机（≤600px）、平板（≤900px）、桌面端，不同屏幕下布局智能调整。  
